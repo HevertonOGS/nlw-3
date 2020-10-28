@@ -1,4 +1,4 @@
-# Happy
+# Happy :smile:
 Plataforma de Encontro de Lares de Crianças e Adolescentes
 
 ## Descrição
